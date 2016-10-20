@@ -1,0 +1,7 @@
+3
+ABA
+ABA
+CAC
+ABA
+CAC
+CCDCC
